@@ -1,0 +1,20 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    gap: 16px;
+}
+.charmander:hover {
+    padding: 16px;
+    border: 2px dashed rgb(255, 190, 239);
+}
+.squirtle:hover {
+    padding: 16px;
+    border: 2px dashed rgb(255, 190, 239);
+}
+.bulbasaur:hover {
+    padding: 16px;
+    border: 2px dashed rgb(255, 190, 239);
+}

@@ -1,0 +1,21 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+    gap: 16px;
+    height:900px
+}
+.eevee:hover {
+    padding: 16px;
+    border: 2px dashed rgb(255, 190, 239);
+}
+.vulpix:hover {
+    padding: 16px;
+    border: 2px dashed rgb(255, 190, 239);
+}
+.jigglypuff:hover {
+    padding: 16px;
+    border: 2px dashed rgb(255, 190, 239);
+}
